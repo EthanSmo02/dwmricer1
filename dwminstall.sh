@@ -8,10 +8,10 @@ sudo apt install sxhkd build-essential libx11-dev libxinerama-dev sharutils suck
 
 echo "Cloneing Stuff"
 cd $HOME/Downloads/
-git clone https://github.com/mtwb47/scripts.git
+git clone https://github.com/EthanSmo02/scripts1.git
 cd
 cd $HOME/.config
-git clone https://github.com/mtwb47/suckless.git
+git clone https://github.com/EthanSmo02/suckless1.git
 
 #Note: Scripts for updates only work on Arch or Arch based distros.
 echo "Moving stuff!"
